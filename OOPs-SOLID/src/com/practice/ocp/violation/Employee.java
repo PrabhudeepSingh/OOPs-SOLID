@@ -22,5 +22,6 @@ public class Employee {
 		
 		//Note that here if we want to add any another type of employee
 		//then we have to modify this class
+		
 	}
 }
